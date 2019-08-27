@@ -115,3 +115,4 @@ public class GreedyKnapSack {
         
         System.out.print("\n\nOptimal Profit: "+total_profit+"\n");
     }
+}
